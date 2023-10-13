@@ -6,7 +6,7 @@ import { RiLockPasswordLine } from 'react-icons/ri'
 
 const Login = () => {
   return (
-    <div className='container'>
+    <div className='container1'>
         <div className='header'>
             <div className="text">Login</div>
             <div className="underline"></div>
