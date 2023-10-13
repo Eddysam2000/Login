@@ -3,9 +3,9 @@
     flex-direction: column;
     margin: auto;
     background: white;
-    margin-top: 200px;
+    margin-top: 140px;
     width: 600px;
-    padding-bottom: 30px;
+    padding-bottom: 20px;
 }
 
 .header{
@@ -79,4 +79,9 @@
     color: white;
     width: 200px;
     height: 55px;
+}
+
+/* media queries for small devices */
+@media screen and (max-width:600px){
+    
 }
