@@ -1,5 +1,8 @@
 .Head {
     background-color: rgb(31, 31, 211);
+    color: transparent;
+    text-decoration: none;
+    font-size: medium;
 }
 
 
