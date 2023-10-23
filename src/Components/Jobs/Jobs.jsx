@@ -7,8 +7,8 @@ const Jobs = () => {
     <div>
       <div className=  'sam d-flex justify-content-between'>
       <div className=' d-flex flex-column gap-3'>
-        <p className='p-0 m-0 fw-bold'>name : edwin</p>
-        <p className='p-0 m-0 fw-bold'>email : edwin</p>
+        <p className='p-0 m-0 fw-bold'>name : </p>
+        <p className='p-0 m-0 fw-bold'>email : </p>
         <p className='p-0 m-0 fw-bold'>type : </p>
         <p className='p-0 m-0 fw-bold'>Description : </p>
       </div>
@@ -19,8 +19,8 @@ const Jobs = () => {
     </div>
     <div className=  'sam d-flex justify-content-between'>
       <div className=' d-flex flex-column gap-3'>
-        <p className='p-0 m-0 fw-bold'>name : edwin</p>
-        <p className='p-0 m-0 fw-bold'>email : edwin</p>
+          <p className='p-0 m-0 fw-bold'>name : </p>
+        <p className='p-0 m-0 fw-bold'>email : </p>
         <p className='p-0 m-0 fw-bold'>type : </p>
         <p className='p-0 m-0 fw-bold'>Description : </p>
       </div>
@@ -31,8 +31,8 @@ const Jobs = () => {
     </div>
     <div className=  'sam d-flex justify-content-between'>
       <div className=' d-flex flex-column gap-3'>
-        <p className='p-0 m-0 fw-bold'>name : edwin</p>
-        <p className='p-0 m-0 fw-bold'>email : edwin</p>
+        <p className='p-0 m-0 fw-bold'>name : </p>
+        <p className='p-0 m-0 fw-bold'>email : </p>
         <p className='p-0 m-0 fw-bold'>type : </p>
         <p className='p-0 m-0 fw-bold'>Description : </p>
       </div>
@@ -43,8 +43,8 @@ const Jobs = () => {
     </div>
     <div className=  'sam d-flex justify-content-between'>
       <div className=' d-flex flex-column gap-3'>
-        <p className='p-0 m-0 fw-bold'>name : edwin</p>
-        <p className='p-0 m-0 fw-bold'>email : edwin</p>
+        <p className='p-0 m-0 fw-bold'>name : </p>
+        <p className='p-0 m-0 fw-bold'>email : </p>
         <p className='p-0 m-0 fw-bold'>type : </p>
         <p className='p-0 m-0 fw-bold'>Description : </p>
       </div>
@@ -55,8 +55,8 @@ const Jobs = () => {
     </div>
     <div className=  'sam d-flex justify-content-between'>
       <div className=' d-flex flex-column gap-3'>
-        <p className='p-0 m-0 fw-bold'>name : edwin</p>
-        <p className='p-0 m-0 fw-bold'>email : edwin</p>
+        <p className='p-0 m-0 fw-bold'>name : </p>
+        <p className='p-0 m-0 fw-bold'>email : </p>
         <p className='p-0 m-0 fw-bold'>type : </p>
         <p className='p-0 m-0 fw-bold'>Description : </p>
       </div>
@@ -67,8 +67,8 @@ const Jobs = () => {
     </div>
     <div className=  'sam d-flex justify-content-between'>
       <div className=' d-flex flex-column gap-3'>
-        <p className='p-0 m-0 fw-bold'>name : edwin</p>
-        <p className='p-0 m-0 fw-bold'>email : edwin</p>
+        <p className='p-0 m-0 fw-bold'>name : </p>
+        <p className='p-0 m-0 fw-bold'>email : </p>
         <p className='p-0 m-0 fw-bold'>type : </p>
         <p className='p-0 m-0 fw-bold'>Description : </p>
       </div>
@@ -79,8 +79,8 @@ const Jobs = () => {
     </div>
     <div className=  'sam d-flex justify-content-between'>
       <div className=' d-flex flex-column gap-3'>
-        <p className='p-0 m-0 fw-bold'>name : edwin</p>
-        <p className='p-0 m-0 fw-bold'>email : edwin</p>
+        <p className='p-0 m-0 fw-bold'>name : </p>
+        <p className='p-0 m-0 fw-bold'>email : </p>
         <p className='p-0 m-0 fw-bold'>type : </p>
         <p className='p-0 m-0 fw-bold'>Description : </p>
       </div>
