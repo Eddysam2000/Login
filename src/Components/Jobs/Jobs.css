@@ -3,9 +3,12 @@
     padding: 10px;
     background-color: rgb(185, 198, 169);
     border: 0.5px black solid;
+    
 }
 
 .sam:hover {
-    color: white
+    color: white;
+    transform: rotate(5deg);
     /* background-color: white; */
+    
 }
