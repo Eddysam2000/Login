@@ -21,7 +21,7 @@
 
 .text {
     color: #3c009d;
-    font-size: 44px;
+    font-size: 45px;
     font-weight: 700;
 }
 
@@ -35,7 +35,7 @@
 .inputs {
     display: flex;
     flex-direction: column;
-    margin-top: 55px;
+    margin-top: 56px;
     gap: 25px;
 }
 
