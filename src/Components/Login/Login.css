@@ -13,7 +13,7 @@
 .header {
     display: flex;
     flex-direction: column;
-    gap: 9.5px;
+    gap: 9px;
     align-items: center;
     width: 100%;
     margin-top: 30px;
