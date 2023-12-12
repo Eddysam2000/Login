@@ -8,7 +8,7 @@ const Login = () => {
   return (
     <div className='container1'>
         <div className='header'>
-            <div className="text">Login</div>
+            <div className="text">Logins</div>
             <div className="underline"></div>
         </div>
         <div className="inputs">
@@ -22,7 +22,7 @@ const Login = () => {
             </div>
         </div>
         <div className="submit-container">
-            <div className="submit">Login</div>
+            <div className="submit">Loginss</div>
         </div>
 
     </div>
