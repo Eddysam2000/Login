@@ -50,7 +50,7 @@ const Jobs = () => {
       </div>
       <div className=' d-flex flex-column justify-content-between' >
         <p className='p-0 m-0 fw-bold'>Date :</p>
-        <p className='p-0 m-0'>4 days re</p>
+        <p className='p-0 m-0'>4 days rem</p>
       </div>
     </div>
     <div className=  'sam d-flex justify-content-between'>
