@@ -22,7 +22,7 @@ const Login = () => {
             </div>
         </div>
         <div className="submit-container">
-            <div className="submit">Loginss</div>
+            <div className="submit">Logins</div>
         </div>
 
     </div>
