@@ -17,7 +17,7 @@ const Header = () => {
         <Nav.Link href="#" className='fw-bold text-white'>Home</Nav.Link>
         <Nav.Link href="Jobs" className='fw-bold text-white'>Jobs</Nav.Link>
         <Nav.Link href="Login" className='fw-bold text-white'>Login</Nav.Link>
-        <Nav.Link href="#" className='fw-bold text-white'>Logout</Nav.Link>
+        <Nav.Link href="#" className='fw-bold text-white'>Logt</Nav.Link>
      </Nav>
     </Navbar.Collapse>
   </Container>
